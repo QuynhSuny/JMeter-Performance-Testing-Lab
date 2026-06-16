@@ -1,7 +1,9 @@
 # JMeter-Performance-Testing-Lab
 # BÁO CÁO KIỂM THỬ HIỆU NĂNG VỚI APACHE JMETER
 
-* **Môn học:** Đảm bảo chất lượng và Kiểm thử phần mềm
+* **Họ và tên:** Hoàng Như Quỳnh
+* **Mã số sinh viên:** 23010027
+* **Môn học:** Đánh giá và kiểm định chất lượng phần mềm
 * **Công cụ sử dụng:** Apache JMeter phiên bản 5.6.3
 * **Kịch bản kiểm thử chung (Thread Group):**
     * Number of Threads (users): 100 người dùng ảo
